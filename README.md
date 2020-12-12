@@ -1,5 +1,10 @@
-# Football Team Picker
-A Tensorflow ML algorithm to optimize the picking of 5 a side football team
+<h1>Autobrew</h1>
+
+![Build Status](https://github.com/paulharte/football_team_picker/workflows/Tests/badge.svg)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub license](https://img.shields.io/github/license/paulharte/football_team_picker.svg)](https://github.com/paulharte/football_team_picker/blob/master/LICENSE)
+
+<h2> A Tensorflow ML algorithm to optimize the picking of 5 a side football team </h2>
 
 The idea is to train a model, based on previous results to pick perfectly balanced teams for a 5-a-side game. The
 beauty of the neural network approach used is that it should be able to pick up subtleties from the data, such
