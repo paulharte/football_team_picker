@@ -1,4 +1,4 @@
-<h1>Autobrew</h1>
+<h1>Football team picker</h1>
 
 ![Build Status](https://github.com/paulharte/football_team_picker/workflows/Tests/badge.svg)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
