@@ -34,6 +34,7 @@ jupyterlab-pygments==0.1.2
 Keras-Preprocessing==1.1.2
 Markdown==3.3.3
 MarkupSafe==1.1.1
+meteostat==1.0.0
 mistune==0.8.4
 nbclient==0.5.1
 nbconvert==6.0.7
@@ -53,6 +54,7 @@ prometheus-client==0.9.0
 prompt-toolkit==3.0.8
 protobuf==3.14.0
 py==1.9.0
+pyarrow==2.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
