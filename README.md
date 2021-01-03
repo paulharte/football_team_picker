@@ -16,4 +16,12 @@ THe model itself predicts who will win between two teams (arbitrarily called the
 In order to pick the best players for a close match, I generated all the possible combinations of teams that could be
 picked, generated a prediction for each, and chose the one most likely to be a draw (an output of 0.5 from the algo)
 
+This is trained on real world data, collected from three years of 5 a side matches in UCD, Dublin.
+
+<h3>Weather</h3>
+
+An extra layer is added to the model, by enriching weather data. This is collected using Meteostat for historical data.
+This allows the model to determine which players play better in wet/unpleasant conditions in order to answer the age old
+question ["Can he do it on a wet night in Stoke?"](https://www.goal.com/en-ie/news/what-does-can-they-do-it-on-a-cold-rainy-night-in-stoke-mean/1f7alegnrwfr01i5vj34vak59k)
+
 
