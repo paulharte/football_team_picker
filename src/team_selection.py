@@ -5,4 +5,4 @@ class TeamSelection(object):
         self.rating = None
 
     def __str__(self):
-        return "white team: %s, black team: %s" % (self.white, self.black)
+        return "white team: % s\nblack team: %s" % (self.white, self.black)
