@@ -1,4 +1,4 @@
-update_requirements:
+requirements:
 	pip freeze > requirements.txt
 
 start:

@@ -30,6 +30,7 @@ h5py==3.14.0
 httpcore==1.0.9
 httpx==0.28.1
 idna==3.10
+iniconfig==2.1.0
 ipykernel==6.30.1
 ipython==9.5.0
 ipython_pygments_lexers==1.1.1
@@ -78,6 +79,7 @@ parso==0.8.5
 pexpect==4.9.0
 pillow==11.3.0
 platformdirs==4.4.0
+pluggy==1.6.0
 prometheus_client==0.22.1
 prompt_toolkit==3.0.52
 protobuf==6.32.0
@@ -86,6 +88,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 pycparser==2.22
 Pygments==2.19.2
+pytest==8.4.1
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 pytz==2025.2
